@@ -2,7 +2,7 @@
 Bot de Telegram para jugar al Bingo con tus amigos
 Telegram bot to play the game Bingo with your friends in a group
 
-##Castellano
+## Castellano
 ¡Crea tu propio bot en Telegram para jugar al bingo en tu grupo de amigos!
 ### Primeros pasos
 - Busca en Telegram la cuenta @BotFather, te guiará en el proceso de creación de tu bot
@@ -17,7 +17,7 @@ Telegram bot to play the game Bingo with your friends in a group
 - /linea: un jugador puede cantar línea con este comando
 - /bingo: el jugador que primero rellene su cartón puede usar este comando para proclamarse ganador y finalizar la partida
 
-##English
+## English
 Create your own Telegram bot to play bingo in your group of friends!
 ### First steps
 - Search for the @BotFather account in Telegram, it will guide you through the process of creating your bot
