@@ -1,5 +1,6 @@
 # bingoBot
-Bot de Telegram para jugar al Bingo con tus amigos
+Bot de Telegram para jugar al Bingo con tus amigos.
+
 Telegram bot to play the game Bingo with your friends in a group
 
 ## Castellano
